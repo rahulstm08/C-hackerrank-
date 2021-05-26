@@ -19,6 +19,8 @@ int main()
        printf("seven");
     if(n==8)
        printf("eight");
+    if(n==9)
+       printf("nine");   
     if(n>9)
        printf("Greater than 9"); 
        
