@@ -1,0 +1,5 @@
+int sum = *a + *b;
+    int diff = abs(*a - *b);
+    
+    *a = sum;
+    *b = diff;
